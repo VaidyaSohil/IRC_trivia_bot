@@ -1,0 +1,3 @@
+What is the square root of 81?|9
+What does IRC stand for?|Internet Relay Chat
+What is "bot" short for?|robot
